@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Oracle WebLogic Server 12c (12.1.1) JRE">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/sw-server/jars/eclipselink-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/j2ee-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/jsf-api.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/sw-server/jars/primefaces-5.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
